@@ -1,13 +1,15 @@
-# ARTICLE I. NAME OF ORGANIZATION
+# Open Source Club Constitution 
+
+## Article I. Name of Organization
 
 The name of this organization is the **Open Source Club**. This organization will utilize the
 acronym **OSC** or go by Open Source Club in all publicity materials and correspondence.
 
-# ARTICLE II. PURPOSE STATEMENT
+## Article II. Purpose Statement
 
 The purpose of the Open Source Club is to promote, support, and create open source software.
 
-# ARTICLE III. COMPLIANCE STATEMENT
+## Article III. Compliance Statement
 
 Upon approval by the Department of Student Activities and Involvement, Open Source Club
 shall be a registered student organization at the University of Florida. Open Source Club shall
@@ -17,39 +19,46 @@ regulations related to Non-Discrimination, Sexual Harassment (including sexual m
 dating violence, domestic violence, and stalking), Hazing, Commercial Activity, and Student       
 Leader Eligibility.
 
-# ARTICLE IV. UNIVERSITY REGULATIONS
+## Article IV. University Regulations
 
-## Section A. Non-Discrimination
+### Section A. Non-Discrimination
+
 Open Source Club agrees that it will not discriminate on the basis of race, creed, color, religion,
 age, disability, sex, sexual orientation, gender identity and expression, marital status, national
 origin, political opinions or affiliations, genetic information and veteran status as protected
 under the Vietnam Era Veterans’ Readjustment Assistance Act.
 
-## Section B. Sexual Harassment
+### Section B. Sexual Harassment
+
 Open Source Club agrees that it will not engage in any activity that is unwelcome conduct of
 sexual nature that creates a hostile environment. Behaviors that could create a hostile
 environment include sexual harassment (which could include inappropriate sexual comments),
 sexual misconduct, dating violence, domestic violence, and stalking.
 
-## Section C. Hazing
+### Section C. Hazing
+
 Open Source Club agrees that it will not initiate, support, or encourage any events or situations
 that recklessly, by design, or intentionally endanger the mental or physical health or safety of a
 student for any purpose including but not limited to initiation or admission into or affiliation
 with any student group or organization.
 
-## Section D. Responsibility to Report
+### Section D. Responsibility to Report
+
 If this organization becomes aware of any such conduct described in this article, Open Source
 Club will report it immediately to Student Activities and Involvement, the Director of Student
 Conduct and Conflict Resolution, or the University’s Title IX Coordinator.
 
-# ARTICLE V. MEMBERSHIP
+## Article V. Membership
+
 Membership in this organization is open to all enrolled students at the University of Florida.
 Non-enrolled students, spouses, faculty, and staff may be associate members; however, they
 may not vote or hold office. All members and associate members are free to leave and
 disassociate without fear of retribution, retaliation, or harassment.
 
-# ARTICLE VI. OFFICERS
-## Section A: 
+## Article VI. Officers
+
+### Section A: 
+
 The elected officers of the Open Source Club shall be *President*, *Vice-President*, and *Treasurer*.
 
 1. The President shall preside at all meetings of the organization and shall coordinate the
@@ -64,7 +73,8 @@ budget as authorized by the organization. The Treasurer shall present a financia
 every meeting of the Open Source Club and at other times when requested by the President or
 Vice President.
 
-## Section B: 
+### Section B: 
+
 The appointed officers of the Open Source Club shall be *Secretary*, *External Relations*,
 *Advertising Officer*, and *Project Leader*.
 
@@ -88,12 +98,14 @@ such as through the distribution of flyers.
 8. The Project Leader shall hold responsibility over coordinating members&#39; work on
 projects, organizing supplementary meetings, and resolving disputes.
 
-## Section C: 
+### Section C: 
+
 Officers shall assume their official duties at the close of the last general meeting of
 the academic year and shall serve for a term of one academic year and/or until their successors
 are elected/appointed.
 
-## Section D: 
+### Section D: 
+
 Any officer of the Open Source Club may be removed from office through the
 following process:
 
@@ -107,7 +119,8 @@ prepared to respond to the removal request.
 3. In the event of the removal of an officer, a special provision may be granted to the
 remaining officers to appoint an interim replacement until an election may be held.
 
-# ARTICLE VII. ELECTIONS
+## Article VII. Elections
+
 Nominations for all officers will take place annually from the members starting in January. Any
 member may nominate any other voting member, including himself or herself. Nominations
 may also be made during the election meeting prior to closing of nominations. Voting will occur
@@ -117,7 +130,8 @@ between the top two vote recipients at the next general meeting. No person shall
 serve more than two consecutive terms in the same office. Elections should take place in late
 March to early April to allow for turnover between old and new board.
 
-# ARTICLE VIII. STUDENT ORGANIZATION ADVISOR
+## Article VIII. Students Organization Advisor
+
 The faculty advisor shall serve as a resource person and provide advisory support for the
 officers and members of the organization. The faculty advisor should attend executive and
 general meetings; however, the faculty advisor may not vote in any Open Source Club matters.
@@ -126,17 +140,20 @@ members. The factually advisor will serve a term of one (1) academic year. In th
 faculty advisor is unable to continue in their position, officers may nominate a replacement at
 any time, to be confirmed by a majority vote of the members.
 
-# ARTICLE IX. FINANCE
+## Article IX. Finance
+
 The Open Source Club will not require membership dues; however, it will raise funds through
 carwashes and similar activities, for t-shirts, travel to leadership conferences, and other
 operational expenses of the organization. Members are expected to participate in these
 fundraising activities. The Open Source Club will also apply for Student Government funding.
 
-# ARTICLE X. DISSOLUTION OF ORGANIZATION
+## Article X. Dissolution of Organization
+
 In the event this organization dissolves, all monies left in the treasury, after outstanding debts
 and claims have been paid, shall be donated to “Electronic Frontier Foundation.”
 
-# ARTICLE XI. AMENDMENTS TO CONSTITUTION
+## Article XI. Amendments to Constitution
+
 Amendments to this constitution may be made at any regular meeting of The Open Source Club
 provided notice of the proposed amendment was given one week prior to a vote. Amendments
 require a two-thirds vote of the voting members in attendance at the meeting, and are subject
