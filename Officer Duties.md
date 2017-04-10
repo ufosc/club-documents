@@ -1,116 +1,136 @@
-President
+# Officer Duties
 
-* Providing the guiding vision for the club
+This document list the responsibilities and other characteristics of each officer in the Open Source Club. 
 
-* Acting project lead for projects without a project lead
+## Elected Positions
 
-* Technical responsibility to be able to help other members
+### President
 
-* Oversee officer and general body meetings
+- Providing the guiding vision for the club
 
-* Access to all club accounts
+- Acting project lead for projects without a project lead
 
-* Oversees officers and projects
+- Technical responsibility to be able to help other members
 
-* Year-long term
+- Oversee officer and general body meetings
 
-Vice-President
+- Access to all club accounts
 
-* Act as president in cases that the president is incapable of performing his or her duties
+- Oversee officers and projects
 
-* In charge of researching and putting together technical presentations
+- Year-long term
 
-* Technical responsibility to be able to help other members
+### Vice-President
 
-* Access to all club accounts
+- Act as president in cases that the president is incapable of performing his or her duties
 
-* Acting project lead for projects without a project lead
+- In charge of researching and putting together technical presentations
 
-* Year-long term
+- Technical responsibility to be able to help other members
 
-Treasurer
+- Access to all club accounts
 
-* Work with ACM to secure funding
+- Acting project lead for projects without a project lead
 
-* In charge of club funds
+- Year-long term
 
-* Maintain budget
+### Treasurer
 
-    * General budget
+- Work with ACM and SG to secure funding
 
-    * Project budget
+- In charge of club funds
 
-    * Hosting fees
+- Maintain budget
 
-* Order food and drinks for meetings and events
+    - General budget
 
-* Access to email account
+    - Project budget
 
-* Year-long term
+    - Hosting fees
 
-Secretary
+- Order food and drinks for meetings and events
 
-* Maintaining listserv
+- Access to email account
 
-* Maintain club documents
+- Year-long term
 
-* Record minutes
+## Appointed Positions
 
-* Help other officers when necessary
+### Secretary
 
-* Standardizing procedures
+- Maintain listserv emails
+    - Update from email sign up
+    - Update from meeting sign in
 
-* Maintaining club consistency
+- Maintain club documents
 
-* Access to email account
+- Record minutes
 
-* Year-long term
+- Help other officers when necessary
 
-External Relations Chair (Secretary of State)
+- Standardize procedures
 
-* Maintain friendly relations with ACM
+- Maintain club consistency
 
-* Attend ACM SIG meetings
+- Access to email account
 
-* Coordinate on joint projects and presentations
+- Year-long term
 
-* Reaching out to other computer science related clubs
+### External Relations Chair
 
-* Access to email account
+- Maintain friendly relations with ACM and other SIGs
 
-* Technically competent
+- Attend ACM SIG meetings
 
-* Year-long term
+- Act as main point of contact for other organizations 
 
-Social Chair
+- Coordinate on joint projects and presentations
 
-* Send out announcements 
+- Reaching out to other computer science related clubs
 
-* Reserve rooms for meetings and events
+- Access to email account
 
-* Update OSC and ACM calendars 
+- Technically competent
 
-* Promotes engagement on social media
+- Year-long term
 
-* Promotes club
+### Social Chair
 
-* In charge of outreach, tabling, and advertising
+- Send out announcements 
+    - Email
+    - Facebook
 
-* Has access to email account and Facebook account
+- Reserve rooms for meetings and events
 
-* Year-long term
+- Update OSC and ACM calendars 
+    - Official OSC
+    - Official ACM
+    - Fishbowl Reservation
 
-Project Leads
+- Promotes engagement on social media
+    - Several times a week
+    - Create events a week in advance
+    - Post about open source protects
 
-* Delegating duties and tasks for the project
+- In charge of outreach, tabling, and advertising
 
-* Oversee technical goals of the project
+- Has access to email account and Facebook group
 
-* Reports on project status
+- Year-long term
 
-* Drafting style-guidelines and other documents for the project
+### Project Leads
 
-* Maintains a list of team members for the project
+- Delegate duties and tasks for the project
 
-* Semester or project term (whichever is less)
+- Oversee technical goals of the project
+
+- Report on project status
+    - Dev Sessions
+    - General Body Meetings
+
+- Draft style-guidelines and other documents for the project
+
+- Maintains a list of team members for the project
+
+- Semester or project term (whichever is less)
 
