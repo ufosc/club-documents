@@ -1,6 +1,6 @@
 # Open Source Projects
 
-Here is a list of cool or unique open source projects. Useful to show off open source, or cover a specific topic. It's categorized 
+Here is a list of cool or unique open source projects. Useful to show off open source, or cover a specific topic.
 
 ## Programming 
 

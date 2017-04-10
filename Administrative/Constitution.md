@@ -75,27 +75,27 @@ Vice President.
 
 ### Section B: 
 
-The appointed officers of the Open Source Club shall be *Secretary*, *External Relations*,
-*Advertising Officer*, and *Project Leader*.
+The appointed officers of the Open Source Club shall be *Secretary*, *External Relations Chair*,
+*Social Chair*, and *Project Leader*.
 
 1. The Secretary shall be appointed by the President.
 
 2. The Secretary shall record the minutes of all meetings of the Open Source Club and shall
 perform other duties as may be delegated.
 
-3. The External Relations shall be appointed by the President.
+3. The External Relations Chair shall be appointed by the President.
 
-4. The External Relations personnel shall preside over the Open Source Club’s relations with third parties; duties include contacting outside organizations for project collaboration.
+4. The External Relations Chair personnel shall preside over the Open Source Club’s relations with third parties; duties include contacting outside organizations for project collaboration.
 
-5. The Advertising Officer shall be appointed by the President.
+5. The Social Chair shall be appointed by the President.
 
-6. The Advertising Officer shall hold responsibility for all forms of recruitment for the club,
+6. The Social Chair shall hold responsibility for all forms of recruitment for the club,
 including arrangement with university events for public demonstrations and advertisement
 such as through the distribution of flyers.
 
 7. The Project Leader shall be appointed by the President.
 
-8. The Project Leader shall hold responsibility over coordinating members&#39; work on
+8. The Project Leader shall hold responsibility over coordinating members' work on
 projects, organizing supplementary meetings, and resolving disputes.
 
 ### Section C: 
@@ -111,7 +111,7 @@ following process:
 
 1. A written request by at least three voting members of the organization shall be
 submitted to either the President, Vice President, or Treasurer. Written notification shall be
-sent to the officer in question asking that officer to be present at the next meeting and
+sent to the officer in question asking that officer to be present at the next officer meeting and
 prepared to respond to the removal request.
 
 2. A two thirds majority vote of members present is necessary to remove the officer.
