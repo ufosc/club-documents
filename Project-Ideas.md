@@ -64,7 +64,7 @@ Below is a template for projects
 
 **Status**: Inactive
 
-### Project: JukeBox.
+### Project: JukeBox
 
 **Description**: A small terminal based music player. C++ (17) for openAL.
 
@@ -94,15 +94,15 @@ Below is a template for projects
 
 ## Top 5 Not Started 
 
-### Project: Organizer 
+### Project: Voting Website 
 
-**Description**: Trello like, for students 
+**Description**: Users would put in the candidates and positions, select what type of voting (run offs, ranked voting, etc). Keep it simple, quick, and fair. Could be extended to work like Google Forms where it's saved in a unique url. 
 
-**Type**: Utility, Android 
+**Type**: Utility, Web 
 
-**Difficulty**: Intermediate
+**Difficulty**: Beginner
 
-**Resources**: https://trello.com/
+**Resources**: 
 
 **Github**: 
 
@@ -165,6 +165,34 @@ Below is a template for projects
 **Status**: Not started
 
 ## Other Not Started
+
+### Project: Organizer 
+
+**Description**: Trello like, for students 
+
+**Type**: Utility, Android 
+
+**Difficulty**: Intermediate
+
+**Resources**: https://trello.com/
+
+**Github**: 
+
+**Status**: Not stated
+
+### Project: Easy Share Music 
+
+**Description**: Site with unique rooms. People can go to these rooms and share links to music that the site then streams. Allows for live dynamic playlist. Links could be from youtube, sound cloud, other sites. Probably not a copyright issue...
+
+**Type**: Utility, Web, Music 
+
+**Difficulty**: Intermediate
+
+**Resources**:
+
+**Github**: 
+
+**Status**: Not stated
 
 ### Project: Encrypted IRC
 
