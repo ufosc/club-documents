@@ -64,7 +64,7 @@ Below is a template for projects
 
 **Status**: Inactive
 
-### Project: JukeBox.
+### Project: JukeBox
 
 **Description**: A small terminal based music player. C++ (17) for openAL.
 
@@ -92,61 +92,17 @@ Below is a template for projects
 
 **Status**: Inactive
 
-## Not Started
+## Top 5 Not Started 
 
-### Project: Gif Editor
+### Project: Voting Website 
 
-**Description**: Useful and full featured Gif Editor. Java
+**Description**: Users would put in the candidates and positions, select what type of voting (run offs, ranked voting, etc). Keep it simple, quick, and fair. Could be extended to work like Google Forms where it's saved in a unique url. 
 
-**Type**: Utility, Desktop
+**Type**: Utility, Web 
 
-**Difficulty**: Advanced 
-
-**Resources**: 
-
-**Github**: https://github.com/ufosc/gif-editor
-
-**Status**: Active
-
-### Project: Arbour Tech, Social Safety App
-
-**Description**: Safety mobile app aimed inspired by the idea of reducing sexual assault and rape. Also applicable  for other safety purposes. Geared towards teens and people in their 20s. Features based on bystander intervention, which has been shown to reduce likelihood of assaults by 44%. 
-
-**Type**: iOS, Android, Mobile 
-
-**Difficulty**: Intermediate 
-
-**Resources**: UF OVS 
-
-**Github**:
-
-**Status**: Minimally started, Looking to hire Co-Founder, Will begin seeking funds very soon. 
-
-**Contact**: Antonio Rodriguez,      antrod1997@ufl.edu      (561)797-6519
-
-### Project: Encrypted IRC
-
-**Description**: Pidgin plugin
-
-**Type**: Security
-
-**Difficulty**: Simple
+**Difficulty**: Beginner
 
 **Resources**: 
-
-**Github**: 
-
-**Status**: Not started
-
-### Project: Organizer 
-
-**Description**: Trello like, for students 
-
-**Type**: Utility, Android 
-
-**Difficulty**: Intermediate
-
-**Resources**: https://trello.com/
 
 **Github**: 
 
@@ -166,6 +122,20 @@ Below is a template for projects
 
 **Status**: Not stated
 
+### Project: GatorLinks
+
+**Description**: List of useful UF sites. Extend to auto rank sites. Started by ACM
+
+**Type**: Utility, Web
+
+**Difficulty**: Simple
+
+**Resources**: 
+
+**Github**: https://github.com/GatorLinks/GatorLinks.github.io
+
+**Status**: Not started
+
 ### Project: Mycroft Pi
 
 **Description**: Play with AI on a raspberry pi
@@ -180,17 +150,75 @@ Below is a template for projects
 
 **Status**: Not stated
 
-### Project: GatorLinks
+### Project: Update Club Website
 
-**Description**: List of useful UF sites. Extend to auto rank sites. Started by ACM
+**Description**: The current website is slow, not updated, and overall a bad image for the club. Need to update it, and probably start from scratch. Currently written in Polymer, but any other framework (or no framework at all) would work.
 
-**Type**: Utility, Web
+**Type**: Web
 
 **Difficulty**: Simple
 
 **Resources**: 
 
-**Github**: https://github.com/GatorLinks/GatorLinks.github.io
+**Github**: https://github.com/ufosc/ufosc.github.io
+
+**Status**: Not started
+
+## Other Not Started
+
+### Project: Organizer 
+
+**Description**: Trello like, for students 
+
+**Type**: Utility, Android 
+
+**Difficulty**: Intermediate
+
+**Resources**: https://trello.com/
+
+**Github**: 
+
+**Status**: Not stated
+
+### Project: Easy Share Music 
+
+**Description**: Site with unique rooms. People can go to these rooms and share links to music that the site then streams. Allows for live dynamic playlist. Links could be from youtube, sound cloud, other sites. Probably not a copyright issue...
+
+**Type**: Utility, Web, Music 
+
+**Difficulty**: Intermediate
+
+**Resources**:
+
+**Github**: 
+
+**Status**: Not stated
+
+### Project: Encrypted IRC
+
+**Description**: Pidgin plugin
+
+**Type**: Security
+
+**Difficulty**: Simple
+
+**Resources**: 
+
+**Github**: 
+
+**Status**: Not started
+
+### Project: Gif Editor
+
+**Description**: Useful and full featured Gif Editor. Java
+
+**Type**: Utility, Desktop
+
+**Difficulty**: Advanced 
+
+**Resources**: 
+
+**Github**: https://github.com/ufosc/gif-editor
 
 **Status**: Not started
 
@@ -291,3 +319,19 @@ Below is a template for projects
 **Github**:
 
 **Status**: Not started
+
+### Project: Arbour Tech, Social Safety App
+
+**Description**: Safety mobile app aimed inspired by the idea of reducing sexual assault and rape. Also applicable  for other safety purposes. Geared towards teens and people in their 20s. Features based on bystander intervention, which has been shown to reduce likelihood of assaults by 44%. 
+
+**Type**: iOS, Android, Mobile 
+
+**Difficulty**: Intermediate 
+
+**Resources**: UF OVS 
+
+**Github**:
+
+**Status**: Minimally started, Looking to hire Co-Founder, Will begin seeking funds very soon. 
+
+**Contact**: Antonio Rodriguez, antrod1997@ufl.edu (561)797-6519
