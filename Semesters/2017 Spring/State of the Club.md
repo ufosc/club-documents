@@ -1,6 +1,6 @@
 # State of the Club 
 
-## *Spring 2017*
+### *Spring 2017*
 
 ## Meetings 
 
