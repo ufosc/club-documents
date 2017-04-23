@@ -84,6 +84,15 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 - [remoteStorage](https://remotestorage.io/)
 	- An open protocol for per-user storage on the Web
 
+### Games
+
+- [Minetest](http://www.minetest.net/)
+	- A free, open source voxel game engine and game. Fully extendable. You are in control. Minecraft like 
+- [0 A.D.](https://play0ad.com/)
+	- A free, open-source game of ancient warfare. Age of Empires like
+- [Freeciv](http://freeciv.org/)
+	- Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Civilization like 
+
 ### Password Mangers
 
 - [KeePassX](https://www.keepassx.org/)
@@ -116,6 +125,17 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- The Ultimate Open Source Web Chat Platform
 - [Mattermost](https://about.mattermost.com/)
 	- Open source, private cloud Slack-alternative Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 11 languages. Secure, configurable, and scalable from teams to enterprise.
+
+### Android Apps 
+
+- [QuickLyric](https://www.quicklyric.be/)
+	- Instant Lyrics. The hassle-free experience you've been waiting for. 
+- [Shuttle Music Player](https://www.shuttlemusicplayer.com/)
+	- Built by a music lover for music lovers
+- [Slide for Reddit](https://www.reddit.com/r/slideforreddit/)
+	- Slide is an open sourced, ad free Reddit browser for Android
+- [Metal for Facebook & Twitter](https://play.google.com/store/apps/details?id=com.nam.fbwrapper&hl=en)
+	- Your Facebook app should work for you. It should be light, functional and beautiful. It should look how you want it to be accessible everywhere, with lightning fast launch speeds. Metal does this. And more. Twitter too. 
 
 ### Art
 
