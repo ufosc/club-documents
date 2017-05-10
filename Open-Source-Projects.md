@@ -35,6 +35,13 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- The platform for modern developers. GitLab unifies issues, code review, CI and CD into a single UI
 - [GitTorrent](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 	- GitTorrent, a decentralized Github
+	
+### Project Building
+
+- [KIWI](https://opensuse.github.io/kiwi/)
+	- The KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualisation systems like KVM (Qemu), Xen, or VMware. Easily make a customized openSUSE distribuiton.
+- [Open Build Service](http://openbuildservice.org/)
+	- The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures.
 
 ### Other
 
