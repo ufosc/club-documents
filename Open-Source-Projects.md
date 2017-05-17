@@ -24,6 +24,11 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Godot is an advanced, feature-packed, multi-platform 2D and 3D open source game engine
 - [OGRE](http://www.ogre3d.org/)
 	- Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualization, and others.
+	
+### Framework
+
+- [Blockstack](https://blockstack.org/)
+	- A full stack for building decentralized apps
 
 ### Version Control 
 
