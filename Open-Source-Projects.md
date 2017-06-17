@@ -10,6 +10,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- A JavaScript library for Building User Interfaces
 - [TypeScript](http://www.typescriptlang.org/)
 	- TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+- [Vue](https://vuejs.org/)
+	- Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
 
 ### Code Editors 
 
@@ -27,6 +29,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	
 ### Framework
 
+- [Botkit](https://github.com/howdyai/botkit)
+	- Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. Bots are applications that can send and receive messages, and in many cases, appear alongside their human counterparts as users.
 - [Blockstack](https://blockstack.org/)
 	- A full stack for building decentralized apps
 
@@ -81,6 +85,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 ### Utilities 
 
+- [Home Assistant](https://home-assistant.io/)
+	- Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
 - [VLC](https://www.videolan.org/vlc/)
 	- VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 - [Moonlight](http://moonlight-stream.com/#)
