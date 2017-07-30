@@ -12,6 +12,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 - [Vue](https://vuejs.org/)
 	- Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
+- [Preact](https://preactjs.com/)
+	- Fast 3kB alternative to React with the same ES6 API.
 
 ### Code Editors 
 
@@ -48,9 +50,14 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 ### Project Building
 
 - [KIWI](https://opensuse.github.io/kiwi/)
-	- The KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualisation systems like KVM (Qemu), Xen, or VMware. Easily make a customized openSUSE distribuiton.
+	- The KIWI Image System provides a complete operating system image solution for Linux supported hardware platforms as well as for virtualization systems like KVM (Qemu), Xen, or VMware. Easily make a customized openSUSE distribution.
 - [Open Build Service](http://openbuildservice.org/)
 	- The Open Build Service (OBS) is a generic system to build and distribute binary packages from sources in an automatic, consistent and reproducible way. You can release packages as well as updates, add-ons, appliances and entire distributions for a wide range of operating systems and hardware architectures.
+
+### Documentation
+
+- [MkDocks](http://www.mkdocs.org/)
+	- MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
 ### Other
 
@@ -73,6 +80,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- AsteroidOS is an open-source operating system for smartwatches.
 - [CopperheadOS](https://copperhead.co/android/)
 	- A hardened open-source operating system based on Android
+- [UBports](https://ubports.com/)
+	- Ubuntu Touch is the touch-friendly mobile version of the well-loved Ubuntu operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
 
 ## Programs
 
@@ -101,6 +110,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- User centered free and open source apps for diabetes management and research
 - [remoteStorage](https://remotestorage.io/)
 	- An open protocol for per-user storage on the Web
+- [Reveal.js](https://github.com/hakimel/reveal.js/)
+	- A framework for easily creating beautiful presentations using HTML. Reveal.js comes with a broad range of features including nested slides, Markdown contents, PDF export, speaker notes and a JavaScript API. There's also a fully featured visual editor and platform for sharing reveal.js presentations at slides.com.
 
 ### Games
 
@@ -132,7 +143,7 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 ### Messaging
 
 - [Matrix](https://matrix.org/)
-	- Matrix is an open standard for decentralised communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers.
+	- Matrix is an open standard for decentralized communication, providing simple HTTP APIs and open source reference implementations for securely distributing and persisting JSON over an open federation of servers.
 - [Riot](https://riot.im/)
 	- Riot is a glossy Matrix client built on top of matrix-react-sdk with an emphasis on performance and usability.
 - [Ring](https://ring.cx/en)
@@ -177,11 +188,19 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 ## Non-Software 
 
+- [RepRap](http://www.reprap.org/)
+	- RepRap takes the form of a free desktop 3D printer capable of printing plastic objects. Since many parts of RepRap are made from plastic and RepRap prints those parts, RepRap self-replicates by making a kit of itself - a kit that anyone can assemble given time and materials. It also means that - if you've got a RepRap - you can print lots of useful stuff, and you can print another RepRap for a friend... 
 - [Haddington Dynamics](http://hdrobotic.com/)
 	- A FPGA Supercomputing Robotics Company
 - [Open Source Seed Initiative](http://osseeds.org/)
 	- The Open Source Seed Initiative (OSSI) is dedicated to maintaining fair and open access to plant genetic resources worldwide in order to ensure the availability of germplasm to farmers, gardeners, breeders, and communities of this and future generations.
 - [OHorizons](https://ohorizons.org/#)
-	- OHorizons is a non-profit coalition of technical, social, and commercial innovators. We solve persistent global challenges that limit communities’ ability to survive and thrive. We do this by leveraging our global network    of specialists to develop and deploy Low-Tech, High-Thinking solutions.
+	- OHorizons is a non-profit coalition of technical, social, and commercial innovators. We solve persistent global challenges that limit communities’ ability to survive and thrive. We do this by leveraging our global network of specialists to develop and deploy Low-Tech, High-Thinking solutions.
 - [Open Building Institute](http://openbuildinginstitute.org/)
 	- The OBI system is open source, collaborative and distributed. Our focus is on low cost and rapidly-built structures that are modular, ecological, and energy efficient.
+- [FarmBot](https://farmbot.io/)
+	- Humanity's first open source CNC farming machine
+- [Open Farm](https://www.openfarm.cc/)
+	- Farm and garden through knowledge sharing
+- [Open Source Design](http://opensourcedesign.net/#page-top)
+	- We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
