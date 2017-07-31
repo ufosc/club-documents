@@ -14,7 +14,11 @@ The club and class would remain distinct entities, though involvement in both is
 
 ## Description
 
-This course teaches the importance of open source software and how to contribute to open source projects. Students will participate in a semester long open source project. This is either chosen from a provided list or approved by the professor. 
+This course teaches the importance of open source software and how to contribute to open source projects. Students will participate in a semester long open source project. This is either chosen from a provided list or approved by the professor. 3 credits (preferable). 
+
+## Schedule
+
+One lecture period per week with required lab sections (2 to 3) for working on projects.
 
 ## Material
 
