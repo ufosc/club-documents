@@ -82,6 +82,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- A hardened open-source operating system based on Android
 - [UBports](https://ubports.com/)
 	- Ubuntu Touch is the touch-friendly mobile version of the well-loved Ubuntu operating system. Originally designed and developed by Canonical, it now lives on in the UBports community.
+- [Maruos](http://maruos.com/#/)
+	- A custom Android operating system that allows you to plug into a monitor and run Debian Linux.
 
 ## Programs
 
