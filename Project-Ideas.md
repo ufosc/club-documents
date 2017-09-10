@@ -20,33 +20,47 @@ Below is a template for projects
 
 ## Active
 
-### Project: Website Templates
+### Project: Update Club Website
 
-**Description**: Make website templates both group/personal, and professors. Meet the request within reason. With possible CMS.
+**Description**: The current website is slow, not updated, and overall a bad image for the club. Need to update it, and probably start from scratch. Currently written in Polymer, but any other framework (or no framework at all) would work.
 
-**Type**: Utility, Web
+**Type**: Web
 
 **Difficulty**: Simple
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/website-templates
+**Github**: https://github.com/ufosc/ufosc.github.io 
 
-**Status**: Active
+**Status**: Started
 
-### Project: Course Scheduler
+### Project: NFC Tag Scavenger Hunt
 
-**Description**: Course planner, takes in different majors and their courses, and helps plan based on difficulty ratings, (chains of prerequisites, preferred time, location or professor?  -Mark Davis) credit hours, and semesters. (include alternate sequences for if courses fill up.  -Mark Davis) Has predefined packages for different specialties, that you can modify and it update as you go. Print out a nice format. CSV file. Scrap other universities for classes. Use requirements. At least get database SQL. Typescript
+**Description**: A free, open-source exploration / scavenger-hunt system utilizing cheap, easy-to-set-up NFC tags.
 
-**Type**: Utility, Web
+**Type**: Android, iOS, Server
 
 **Difficulty**: Intermediate
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/course-scheduler
+**Github**: https://github.com/ufosc/nfc-tag-android, https://github.com/ufosc/nfc-tag-server
 
-**Status**: Active
+**Status**: Started
+
+### Project: 2D Game
+
+**Description**: A video game about Marston using Phaser, an HTML5 game framework.
+
+**Type**: Web
+
+**Difficulty**: Intermediate
+
+**Resources**: https://github.com/photonstorm/phaser
+
+**Github**: 
+
+**Status**: Started
 
 ## Inactive
 
@@ -61,6 +75,20 @@ Below is a template for projects
 **Resources**: 
 
 **Github**: https://github.com/ufosc/amuse
+
+**Status**: Inactive
+
+### Project: Course Scheduler
+
+**Description**: Course planner, takes in different majors and their courses, and helps plan based on difficulty ratings, (chains of prerequisites, preferred time, location or professor?  -Mark Davis) credit hours, and semesters. (include alternate sequences for if courses fill up.  -Mark Davis) Has predefined packages for different specialties, that you can modify and it update as you go. Print out a nice format. CSV file. Scrap other universities for classes. Use requirements. At least get database SQL. Typescript
+
+**Type**: Utility, Web
+
+**Difficulty**: Intermediate
+
+**Resources**: 
+
+**Github**: https://github.com/ufosc/course-scheduler
 
 **Status**: Inactive
 
@@ -92,7 +120,21 @@ Below is a template for projects
 
 **Status**: Inactive
 
-## Top 5 Not Started 
+### Project: Website Templates
+
+**Description**: Make website templates both group/personal, and professors. Meet the request within reason. With possible CMS.
+
+**Type**: Utility, Web
+
+**Difficulty**: Simple
+
+**Resources**: 
+
+**Github**: https://github.com/ufosc/website-templates
+
+**Status**: Inactive
+
+## Top Not Started 
 
 ### Project: Voting Website 
 
@@ -149,20 +191,6 @@ Below is a template for projects
 **Github**: 
 
 **Status**: Not stated
-
-### Project: Update Club Website
-
-**Description**: The current website is slow, not updated, and overall a bad image for the club. Need to update it, and probably start from scratch. Currently written in Polymer, but any other framework (or no framework at all) would work.
-
-**Type**: Web
-
-**Difficulty**: Simple
-
-**Resources**: 
-
-**Github**: https://github.com/ufosc/ufosc.github.io
-
-**Status**: Not started
 
 ## Other Not Started
 
