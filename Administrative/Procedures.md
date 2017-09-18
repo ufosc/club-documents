@@ -78,6 +78,9 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 		- Update calenders
 	- Fishbowl schedule on the Fishbowl Reservation Calendar
 		- To be done first week of the semester
+- Other Rooms
+	- Marston has a visualization wall for meetings, reserve-able through [here](http://guides.uflib.ufl.edu/collaboration/L136)
+	- Marston [MADE@UF lab](https://made.it.ufl.edu/) with computers and other gear for VR and app development. Email saragonz@ufl.edu
 
 #### Announcements
 
