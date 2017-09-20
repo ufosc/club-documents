@@ -13,6 +13,8 @@
       about Mozilla, Open Source, VR and anything else relevant to them so be sure to come with questions.
 - T-Shirt Design: We are currently looking for feedback on T-Shirts for the Club. Be sure to go on the slack or facebook and give us your input.
 
+![alt text](https://github.com/ufosc/club-documents/blob/master/Semesters/2017-Fall/T-Shirt%20Design.png)
+
 
 ### Meeting Summary
 - We covered the basics of installing and using Git and the concept of version control software and why it's needed when working on Open 
