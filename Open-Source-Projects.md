@@ -14,6 +14,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
 - [Preact](https://preactjs.com/)
 	- Fast 3kB alternative to React with the same ES6 API.
+- [Haxe](http://haxe.org/)
+	- Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. 
 
 ### Code Editors 
 
@@ -69,6 +71,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Jasper is an open source platform for developing always-on, voice-controlled applications
 - [Docker](https://www.docker.com/)
 	- Docker is the world’s leading software container platform. Developers use Docker to eliminate “works on my machine” problems when collaborating on code with co-workers. Operators use Docker to run and manage apps side-by-side in isolated containers to get better compute density. Enterprises use Docker to build agile software delivery pipelines to ship new features faster, more securely and with confidence for both Linux and Windows Server apps.
+- [Valgrind](http://valgrind.org/)
+	- Valgrind is an instrumentation framework for building dynamic analysis tools. There are Valgrind tools that can automatically detect many memory management and threading bugs, and profile your programs in detail. You can also use Valgrind to build new tools. 
 
 ## Operating Systems  
 
@@ -141,6 +145,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Sandstorm is a self-hostable web productivity suite.
 - [NextCloud](https://nextcloud.com/)
 	- A safe home for all your data. Access, share and protect your files, calendars contacts, communication & more at home and in your enterprise.
+- [Caddy](https://caddyserver.com/)
+	- Caddy is the HTTP/2 web server with automatic HTTPS. Design to be easier and faster to set up then Nginx and Apache.
 
 ### Messaging
 
