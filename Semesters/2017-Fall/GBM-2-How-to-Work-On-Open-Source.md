@@ -1,9 +1,11 @@
-# General Body Meeting 2          September-19
+# General Body Meeting 2          
+
+September-19
 
 [Link to the GBM Presentation Slides: How to Work On Open Source Projects](https://docs.google.com/presentation/d/1X9M6G5xrrvaPqLF5m2Gjy1k6e2uKtXDw_Hsf2ZxObik/edit?usp=sharing) 
 
+## Important Announcements
 
-### Important Announcements
 - New Project Leads!
 - Mozilla Representatives are coming to UF on October 3rd
     - Due to our club's involvement in the Mozilla Campus Clubs program, representatives from Mozilla will be at hosting a 
@@ -15,12 +17,12 @@
 
 ![alt text](https://github.com/ufosc/club-documents/blob/master/Semesters/2017-Fall/T-Shirt%20Design.png)
 
+## Meeting Summary
 
-### Meeting Summary
 - We covered the basics of installing and using Git and the concept of version control software and why it's needed when working on Open 
 Source Projects. 
-- We also covered how to find an Open Source Project andhow contributing to it means more than just writing code. After all, someone has to 
+- We also covered how to find an Open Source Project and how contributing to it means more than just writing code. After all, someone has to 
 test the software and write documentation for it.
-- Note: Having code posted on Github does not make it Open Source. Having the correct licencse does.
-- Finally, we discussed Gitflow and Open Source Project Management. An important skill when it comes to Open Source Projects
+- Note: Having code posted on Github does not make it Open Source. Having the correct licenses does.
+- Finally, we discussed GitFlow and Open Source Project Management. An important skill when it comes to Open Source Projects
 is actually finishing the project. Here we discuss methods of organizing your workflow in order to make that as easy as possible.
