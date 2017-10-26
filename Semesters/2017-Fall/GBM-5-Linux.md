@@ -2,7 +2,7 @@
 
 October 3rd
 
-[Link to the GBM Presentation Slides: Introduction to Linux](://github.com/ufosc/resources/blob/master/presentations/introduction-to-linux.md) 
+[Link to the GBM Presentation Slides: Introduction to Linux](https://github.com/ufosc/resources/blob/master/presentations/introduction-to-linux.md) 
 
 ## Project Status
 - Marston vs. Library West
