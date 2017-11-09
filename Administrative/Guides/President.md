@@ -2,9 +2,9 @@
 
 ## Preface
 
-I'm writing this for a few reasons. The first, and most obvious is to be a guide for future Presidents. I hope what I've learned since starting the club can prove to be valuable. The second is to give other officers a format for creating their own guide. The third and most selfish of me, is to explain why this club masters to me, and what values I would like to see it keeping as it moves forward. 
+I'm writing this for a few reasons. The first, and most obvious is to be a guide for future Presidents. I hope what I've learned since starting the club can prove to be valuable. The second is to give other officers a format for creating their own guide (which don't have to have a preface or be quite as long). The third and most selfish of me, is to explain why this club masters to me, and what values I would like to see it keeping as it moves forward. 
 
-The other thing I want to make clear is that this is a **living document**. I encourage future presidents to modify it to include their thoughts and give better advice than myself. Don't worry about removing something, we're using Git after all. 
+The other thing I want to make clear is that this is a **living document**. I encourage future presidents to modify it to include their thoughts and give better advice than myself (not to mention some of this might be wrong at one point). Don't worry about removing something, we're using Git after all. 
 
 ## Responsibilities
 
@@ -52,6 +52,8 @@ Be sure to keep officer meetings brief and informative. The goal is to make sure
 
 One meeting type we haven't explored much is a mini-hackathon where we go over a certain topic and work on projects dealing with that topic. This could help bring in people and get members to do stuff, but would be a long time commitment. 
 
+Oh and don't forget to put up the sign in and actually sign in. 
+
 ### Projects
 
 > Acting project lead for projects without a project lead
@@ -64,7 +66,9 @@ Make use of GitHub's project management features. Liberally use issues (with tag
 
 Also be active on the slack. Make announcements about progress, answer questions, and thank people for their work. 
 
-As for the technical side of things, keep it simple. Write code to deal with your current problems, not anticipating something that may or may not be an issue. Separate everything into logical sections, and abstract out their interactions (don't tie the core logic of a program to a specific type of database or UI). You should be able to cut out your code and use someone elses (assuming they have the same api) regardless of actual implementation.  
+As for the technical side of things, _keep it simple_. Write code to deal with your current problems, not anticipating something that may or may not be an issue. Separate everything into logical sections, and abstract out their interactions (don't tie the core logic of a program to a specific type of database or UI). You should be able to cut out your code and use someone elses (assuming they have the same api) regardless of actual implementation.  
+
+The most difficult part about projects is getting people involved and actively working on it. We try to lower the entry barrier by putting out useful information. The other aspect needed is motivation. Sometimes people don't know how to work with what language or tool being used. Help teach the best you can, but give them an actual job, don't let them keep practicing forever. If it could be done better, sit with them and walk it through them. Once people actually start coding, assign deadlines so people try to meet them and not keep putting it off. 
 
 ### Officers
 
@@ -72,17 +76,154 @@ As for the technical side of things, keep it simple. Write code to deal with you
 
 Officers are officers because they care about the club. Be sure to spread out the workload (something I've had to work at) or else you or another officer might burn out. Get their opinion on any problems or ideas that pop up. And be sure to ask how they are doing, because some people are to stubborn to ask for help unprompted. 
 
-## Other things
+### Other Organizations and Funding
+
+We are an entity under Student Activities and Involvement. That means we aren't controlled by any other organization (ACM or MOSSN), though that doesn't mean we don't want to work with them. We can also request funding through them, though it can be a frustrating process. 
+
+We are a Special Interest Group of ACM. This is for two reasons: 1. It makes it easy for us to work with other clubs on events to advertize ourselves and spread open source information, 2. They provide a funding source. We do have to do certain things (go to ACM + SIG meetings, advertise their events, etc) as defined by ACM (and on their ACM + SIG Facebook page). Be sure to call them out if they seem to be over stepping their bounds.
+
+The Mozilla Open Source Student Network (MOSSN) is a bit of a new program. We are one of the founding clubs and it's still getting it's footing. It's goal is top help students learn about and start working on open source projects. As of writing this they are trying to provide resources on activities, mentors that we can connect with, and connection with other clubs to do joint projects.
+
+Be sure to work with other clubs, including those outside of the SIG group. Most will want a tech presentation, but doing a joint event or project would be very cool. Though in a way we compete for student time, be happy to work together. We aren't targeting every CS student, so working together to make something useful or cool should primarily be to make something useful ro cool. 
+
+### Accounts
 
 > Access to all club accounts
 
-- UF Listerver
-- Slack bot
-- Slack
+Here are a list of thing's we own/or and need to be updated. Note: maintaining most of these is the duty of other officers, but be sure to check in on them occasionally
+
+Also be sure to get the login details for all of these accounts
+
+- Club email
+	- gator.osc@gmail.com
+	- Be sure to check on this regularly as people will ask questions this way, especially from Gator Connect
+- Google Drive
+	- Try to keep most files on the GitHub instead of the Drive, keep club procedures, meeting notes, and resources open there
+		- Be sure to remove any duplicate files to avoid problems knowing which is most up-to-date
+	- Of the other files keep them well organized
+		- Presentations in the correct GBM folder
+			- If you are reusing/modifying a presentation be sure to not touch the original and make a copy instead
+			- This is because we share certain topic presentations on our GitHub and we don't want to modify that content after the fact
+			- If you are deliberately a topic presentation, make a copy and just update the link, don't modify history
+	- Sign ins
+		- We've been using a Google Sheet for each year (same tinyurl link for the year)
+		- Keep that up to date with what the meeting was so we know when reviewing logins
+- Google Calender
+	- Be sure to use the "Open Source Club" calender, not the "UF OSC" one
+	- Populate this at the beginning of the semester and fill in details as you go
+	- Also copy our events over to the "ACM Master Calender" so others know when we are meeting
+	- You can also reserve the Fishbowl with the "Fishbowl Reservation Calender"
+- [Facebook](https://www.facebook.com/groups/ufosc/)
+	- Post 
+		- Have events created at least a week ahead of time (GBMs even more)
+		- Share GBMs at least a few times before they happen
+			- In th UF OSC page
+			- UF ACM
+			- UF Computer Science
+			- Other relevant ones
+		- Other engagement might help get people active
+			- Open Source project of the week
+			- General tech news
+			- Project status/help of the week
+	- Banners
+		- Use the logos from the logo repo
+		- Be sure to use the ACM labeled ones for events
+	- Notifications
+		- Per [this](https://www.facebook.com/help/167159300010051?helpref=related), members aren't notified about events on Facebook
+		- One workaround would be making a bot that would invite everyone who has signed up for it
+	- Third party posters
+		- Don't let people use our page to advertise for their business
+		- Do let clubs (ACM) that we collaborate with posts events we are involved with
+	- Other
+		- We aren't in the Florida group (we set our location to Gainesville when creating the group), so people don't need to add their UFL emails to Facebook to join
+		- The pinned post should be created by the current President (as people will message you thinking your in charge) and have a link to our intro, slack, email, and GitHub
+- [GitHub](https://github.com/ufosc)
+	- Resources
+		- The folder has lots of useful information outlined below, keep adding/updating it
+		- Intro
+			- An introduction to our club, easy way to onboard members
+		- Resource
+			- Has pages that explain some topic and provide links to useful information about them
+		- Project template
+			- This sets out a template to use for projects
+			- The explain file should walk through the meaning of everything
+			- Anything bolded needs to be updated per project
+		- Presentation
+			- This has links to different topics we've covered
+			- Useful to not have to recreate a presentation
+			- By all means update them, following guidelines I mention in the Google Drive section
+		- Coding guidelines
+			- This has useful advice about coding and style guidelines for different languages
+			- The idea is this is something useful to get projects started, not that they all have to abide by them
+			- Just keep style easily readable (so more people can read it and help)
+	- Club Documents
+		- This stores club management specific files, essentially things only officers need to see and notes about meetings
+	- Logo
+		- Contains all of the assets the club uses
+		- Be sure to put t-shirt and other designs here too
+	- Practice repo
+		- A repo people can practice git with (it has nothing useful after all)
+		- Great for when your doing cross club collaborations
+	- Other repos
+		- Should all be projects
+		- Don't delete anything that has code
+			- Older projects could be revitalized after all
+	- Teams
+		- Use GitHub teams to give access to each project
+			- Add everyone to the members list so they can all accesses the practice repo for instance
+			- Every other group (aside from officers) is for a specific project 
+			- Make sure any new group is under the members group
+- [Website](https://ufosc.github.io/)
+	- Currently on the ufosc.github.io repo
+	- Needs an update
+	- Keep in mind this is how people might find out about the club
+		- Make sure it points to the intro and any other useful information (that is up-to-date)
+- [Slack](https://ufosc.slack.com/)
+	- Channels
+		- Keep the announcements channel for announcements (or questions about events) only
+		- General is for general chatter
+		- Topic/project specific channels for anything else
+			- Be very active and encourage people who are
+		- Archive any unused channels to not overload new members
+	- Slack bots
+		- We have two bots right now that need a little maintenance occasionally
+		- A GitHub bot that pushes notifications about GitHub activity
+			- Need to add each repo individually in order to be notified
+		- A greeter bot that sends an introductory message to each new member
+			- Be sure to mention and link to all the channels so people know about them
+	- Be sure to update pinned posts and topics
+- [UF Listerve](https://lists.ufl.edu/)
+	- Management interface is the bottom link
+	- This is what controls the email announcements 
+	- Update this from the email sign up (linked off of Facebook and on the Google Drive) and the meeting sign-in 
+	- Instructions on how to use it are saved on the Google Drive under resources
+- [Gator Connect](https://orgs.studentinvolvement.ufl.edu/Organization/Open-Source-Club)
+	- We have to update this at the beginning of each fall to stay an official Student Government club
+	- New students may find us this way
+	- The site is pretty awful so we don't use it for anything else
+- [Mozilla Open Source Student Network](https://opensource.mozilla.community/)
+	- More on this in the other organization section
+	- We have a profile here that should be updated
+	- Officers don't have to post their profiles here, but it is encouraged
+- [Reitz union ](https://virtualems.union.ufl.edu/)
+	- We schedule through them because they are much more responsive and provide better rooms than UF Stars
+	- Do it as far out as you can to keep a consistent room
+	- Keep in mind food has to be ordered from their food service to be allowed
+- [DIBS](http://cms.uflib.ufl.edu/studyroom)
+	- Great for Causal Coding as it's smaller and close to classes
+	- Have people on top of reserving rooms as they can go quickly
+	- It's too bad we can't have a bot that reserves these automatically
 - Google+
-- OSC email
-- Facebook
-- GitHub
-- DIBS
-- Reitz union 
-- Website
+	- These are both dead, as no one uses them, but here they are
+	- [Profile](https://plus.google.com/u/0/105319997428264602058)
+	- [Organization](https://plus.google.com/u/0/communities/117962296950277222685)
+
+### Other
+
+Our official name is the Open Source Club, with OSC being the official abbreviation.
+
+We can not officially have UF or Gator in the club name. Our name is generic enough that I believe it is justifiable to use UFOSC as an abbreviation on web facing sites, as to not be confused with other open source clubs.
+
+## Final Thoughts
+
+I realize that was a lot, but I wanted to make sure everything I've been keeping in my mind was written down somewhere. As I mentioned in the preface, please change this as the club evolves. This is not a set of rules that must be followed at all costs, but a guide for getting started. Be passionate about the club and enjoy the presidency. I know I did. 
