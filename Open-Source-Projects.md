@@ -130,8 +130,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 ### Password Mangers
 
-- [KeePassX](https://www.keepassx.org/)
-	- A local cross-platform password manager. Supports plugins. 
+- [KeePassXC](https://keepassxc.org/)
+	- A local cross-platform password manager. Supports plugins, such as auto-filling information on websites and applications. 
 - [Entropass](http://rampantlogic.com/entropass/)
 	- Open source decentralized maximum-security password manager
 - [Encryptr](https://spideroak.com/personal/encryptr)
