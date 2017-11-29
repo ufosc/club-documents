@@ -129,6 +129,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- A free, open-source game of ancient warfare. Age of Empires like
 - [Freeciv](http://freeciv.org/)
 	- Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Civilization like 
+- [Endless Sky](https://endless-sky.github.io/)
+	- Endless Sky is a 2D space trading and combat game similar to the classic Escape Velocity series. Explore other star systems. Earn money by trading, carrying passengers, or completing missions. 
 
 ### Password Mangers
 
