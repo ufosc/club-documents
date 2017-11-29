@@ -1,4 +1,4 @@
-# General Body Meeting 6
+# General Body Meeting 7
 
 November 28th 2017
 
