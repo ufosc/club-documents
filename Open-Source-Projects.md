@@ -30,6 +30,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Godot is an advanced, feature-packed, multi-platform 2D and 3D open source game engine
 - [OGRE](http://www.ogre3d.org/)
 	- Since 2001, OGRE has grown to become one of the most popular open-source graphics rendering engines, and has been used in a large number of production projects, in such diverse areas as games, simulators, educational software, interactive art, scientific visualization, and others.
+- [Phaser](https://phaser.io/)
+	- Desktop and Mobile HTML5 game framework. A fast, free and fun open source framework for Canvas and WebGL powered browser games.
 	
 ### Framework
 
@@ -37,6 +39,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. Bots are applications that can send and receive messages, and in many cases, appear alongside their human counterparts as users.
 - [Blockstack](https://blockstack.org/)
 	- A full stack for building decentralized apps
+- [ZeroNet](https://zeronet.io/)
+	- Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network
 
 ### Version Control 
 
@@ -104,22 +108,47 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 - [Home Assistant](https://home-assistant.io/)
 	- Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Perfect to run on a Raspberry Pi.
-- [VLC](https://www.videolan.org/vlc/)
-	- VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
 - [Moonlight](http://moonlight-stream.com/#)
 	- Moonlight allows you to stream your collection of games from your PC to another device.
 - [Syncthing](https://syncthing.net/)
 	- Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized. Your data is your data alone and you deserve to choose where it is stored, if it is shared with some third party and how it's transmitted over the Internet.
 - [GNU Octave](https://www.gnu.org/software/octave/)
 	- Scientific Programming Language. Powerful mathematics-oriented syntax with built-in plotting and visualization tools. Free software, runs on GNU/Linux, macOS, BSD, and Windows. Drop-in compatible with many Matlab scripts. 
-- [microG](https://microg.org/)
-	- A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.
 - [Glucosio](http://www.glucosio.org/)
 	- User centered free and open source apps for diabetes management and research
 - [remoteStorage](https://remotestorage.io/)
 	- An open protocol for per-user storage on the Web
 - [Reveal.js](https://github.com/hakimel/reveal.js/)
 	- A framework for easily creating beautiful presentations using HTML. Reveal.js comes with a broad range of features including nested slides, Markdown contents, PDF export, speaker notes and a JavaScript API. There's also a fully featured visual editor and platform for sharing reveal.js presentations at slides.com.
+- [AutoHotkey](https://www.autohotkey.com/)
+	- The ultimate automation scripting language for Windows.
+
+### Media
+
+- [VLC](https://www.videolan.org/vlc/)
+	- VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files, and various streaming protocols.
+- [Kodi](https://kodi.tv/)
+	- Kodi (formerly XBMC) is a free and open source media player application developed by the XBMC/Kodi Foundation, a non-profit technology consortium. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
+- [Ardour](https://ardour.org/)
+	- Record, Edit, and Mix audio on Linux, OS X and Windows. 
+- [Shotcut](https://www.shotcut.org/)
+	- Shotcut is a free, open source, cross-platform video editor.
+- [OBS Studio](https://obsproject.com/)
+	- Free and open source software for video recording and live streaming. Download and start streaming quickly and easily on Windows, Mac or Linux. Share your gaming, art and entertainment with the world.
+	
+### Command Line Tools
+
+- [howdoi](https://github.com/gleitz/howdoi)
+	- Instant coding answers via the command line 
+- [thefuck](https://github.com/nvbn/thefuck)
+	-  Magnificent app which corrects your previous console command.
+	
+#### MacOS Tools
+
+- [Homebrew](https://brew.sh/)
+	- The missing package manager for macOS
+- [Cask](https://caskroom.github.io/)
+	- Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to macOS applications and large binaries alike. It only takes 1 line in your shell to reach 3874 Casks maintained by 5141 contributors.
 
 ### Games
 
@@ -132,7 +161,7 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 - [Endless Sky](https://endless-sky.github.io/)
 	- Endless Sky is a 2D space trading and combat game similar to the classic Escape Velocity series. Explore other star systems. Earn money by trading, carrying passengers, or completing missions. 
 
-### Password Mangers
+### Security
 
 - [KeePassXC](https://keepassxc.org/)
 	- A local cross-platform password manager. Supports plugins, such as auto-filling information on websites and applications. 
@@ -142,6 +171,10 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Generate & store secure passwords. Everything is accessible only to you on our No Knowledge cloud, whether you're on your phone or at your desk. It's totally free!
 - [Master Password](https://ssl.masterpasswordapp.com)
 	- A stateless password management solution.
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+	- VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
+- [GNU Privacy Guard](https://www.gnupg.org/)
+	- GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories.
 
 ### Server
 
@@ -151,6 +184,10 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- A safe home for all your data. Access, share and protect your files, calendars contacts, communication & more at home and in your enterprise.
 - [Caddy](https://caddyserver.com/)
 	- Caddy is the HTTP/2 web server with automatic HTTPS. Design to be easier and faster to set up then Nginx and Apache.
+- [QEMU](https://www.qemu.org/)
+	- QEMU is a generic and open source machine emulator and virtualizer.
+- [odoo](https://www.odoo.com/)
+	- Odoo is the best management software to run a company. Millions of happy users work better with our integrated Apps
 
 ### Messaging
 
@@ -166,9 +203,15 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- The Ultimate Open Source Web Chat Platform
 - [Mattermost](https://about.mattermost.com/)
 	- Open source, private cloud Slack-alternative Workplace messaging for web, PCs and phones. MIT-licensed. Hundreds of contributors. 11 languages. Secure, configurable, and scalable from teams to enterprise.
+- [Tox](https://tox.chat/)
+	- Whether it's corporations or governments, digital surveillance today is widespread. Tox is easy-to-use software that connects you with friends and family without anyone else listening in. While other big-name services require you to pay for features, Tox is completely free and comes without advertising — forever.
 
 ### Android Apps 
 
+- [F-Droid](https://f-droid.org/)
+	- F-Droid is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform. The client makes it easy to browse, install, and keep track of updates on your device.
+- [Yalp Store](https://github.com/yeriomin/YalpStore)
+	- Yalp Store lets you download apps from Google Play Store as apk files. It can search for updates of installed apps and lets you search for other apps.
 - [QuickLyric](https://www.quicklyric.be/)
 	- Instant Lyrics. The hassle-free experience you've been waiting for. 
 - [Shuttle Music Player](https://www.shuttlemusicplayer.com/)
@@ -177,6 +220,12 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Slide is an open sourced, ad free Reddit browser for Android
 - [Metal for Facebook & Twitter](https://play.google.com/store/apps/details?id=com.nam.fbwrapper&hl=en)
 	- Your Facebook app should work for you. It should be light, functional and beautiful. It should look how you want it to be accessible everywhere, with lightning fast launch speeds. Metal does this. And more. Twitter too. 
+- [NewPipe](https://github.com/TeamNewPipe/NewPipe)
+	-  A lightweight Youtube frontend for Android.
+- [microG](https://microg.org/)
+	- A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.
+- [oandbackup](https://github.com/jensstein/oandbackup)
+	- A backup program for android. requires root and allows you to backup individual apps and their data. both backup and restore of individual programs one at a time and batch backup and restore of multiple programs are supported (with silent / unattended restores).
 
 ### Art
 
@@ -188,6 +237,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 - [Inkscape](https://inkscape.org/en/)
 	- Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+- [Darktable](https://www.darktable.org/)
+	- Darktable is an open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers. It manages your digital negatives in a database, lets you view them through a zoomable lighttable and enables you to develop raw images and enhance them.
 
 ## Websites 
 
@@ -197,6 +248,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- NotABug.org is a free-software code collaboration platform for freely licensed projects. We exist to help projects that distribute under any free license. These include, but are not limited to:
 - [diaspora*](https://diasporafoundation.org)
 	- diaspora* is completely different from most networks that you use. It is completely decentralized, with no central “hub”. Even so, it’s very easy to connect and communicate with people. Here’s how.
+- [Dillinger](https://dillinger.io/)
+	- Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
 ## Non-Software 
 
@@ -216,3 +269,5 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- Farm and garden through knowledge sharing
 - [Open Source Design](http://opensourcedesign.net/#page-top)
 	- We are a community of designers and developers pushing more open design processes and improving the user experience and interface design of open source software.
+- [Open Motors](https://openmotors.co/)
+	- Open Motors’ (formerly OSVehicle) mission is to democratize mobility by enabling businesses and startups to design, prototype, and build custom electric vehicles and transportation services.
