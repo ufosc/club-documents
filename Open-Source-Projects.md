@@ -188,6 +188,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	- QEMU is a generic and open source machine emulator and virtualizer.
 - [odoo](https://www.odoo.com/)
 	- Odoo is the best management software to run a company. Millions of happy users work better with our integrated Apps
+- [nsupdate.info](https://www.nsupdate.info/)
+	- nsupdate.info is a free dynamic DNS service. nsupdate.info is also the name of the software used to implement it. If you like, you can use it to host the service on your own server.
 
 ### Messaging
 
