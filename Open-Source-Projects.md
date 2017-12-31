@@ -281,6 +281,8 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 ## Websites 
 
+- [draw.io](https://www.draw.io/)
+	- draw.io is an online diagramming web site that delivers the source in this project. draw.io uses the mxGraph library as the base of the stack, with the GraphEditor example from mxGraph as the base of the application part. The mxGraph library build used is stored under /etc/mxgraph/mxClient.js.
 - [GNU social](https://gnu.io/social/)
 	- GNU social is a continuation of the StatusNet project. It is social communication software for both public and private communications. It is widely supported and has a large userbase. It is already used by the Free Software Foundation, and Richard Stallman himself.
 - [NotABug](https://notabug.org/)
