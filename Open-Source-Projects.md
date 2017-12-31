@@ -6,14 +6,12 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 
 ### Programming Languages
 
-- [React](https://facebook.github.io/react/)
-	- A JavaScript library for Building User Interfaces
 - [TypeScript](http://www.typescriptlang.org/)
 	- TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-- [Vue](https://vuejs.org/)
-	- Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
-- [Preact](https://preactjs.com/)
-	- Fast 3kB alternative to React with the same ES6 API.
+- [Python](https://www.python.org/)
+	- Python is a programming language that lets you work quickly and integrate systems more effectively.
+- [Rust](https://www.rust-lang.org/en-US/)
+	-  Rust is a systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety. 
 - [Haxe](http://haxe.org/)
 	- Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. 
 
@@ -35,6 +33,21 @@ Here is a list of cool or unique open source projects. Useful to show off open s
 	
 ### Framework
 
+#### Web Framework
+
+- [Vue](https://vuejs.org/)
+	- Vue.js is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
+- [React](https://facebook.github.io/react/)
+	- A JavaScript library for Building User Interfaces
+- [Preact](https://preactjs.com/)
+	- Fast 3kB alternative to React with the same ES6 API.
+- [node.js](https://nodejs.org/en/)
+	- Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.
+
+#### Others
+
+- [socket.io](https://socket.io/)
+	-  Socket.io enables real-time bidirectional event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed.
 - [Botkit](https://github.com/howdyai/botkit)
 	- Botkit is designed to ease the process of designing and running useful, creative bots that live inside messaging platforms. Bots are applications that can send and receive messages, and in many cases, appear alongside their human counterparts as users.
 - [Blockstack](https://blockstack.org/)
