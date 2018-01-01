@@ -24,7 +24,7 @@ I'll talk each point that I think my thoughts can add value to.
 
 The club was originally founded with the intent _to Promote, Support, and Create Open Source projects_. This extends beyond just software, though that is the major audience we attract. We are different from other clubs because we let students pitch project ideas, regardless of the topic and then work on those. We are not limited to a specific competition or topic. 
 
-Letting student's choose the projects can lead to some really creative and unique ideas, but it also means we end up not working on existing open source projects. While I am very glad students can come upo with their own ideas, we can't forget that open source is about building on existing community work. More of an attempt at working on existing projects would be a good goal.
+Letting student's choose the projects can lead to some really creative and unique ideas, but it also means we end up not working on existing open source projects. While I am very glad students can come up with their own ideas, we can't forget that open source is about building on existing community work. More of an attempt at working on existing projects would be a good goal.
 
 _Regardless of what you decide to do, make it something people can get excited about, and that stays true to open development and leadership._
 
@@ -80,7 +80,7 @@ Officers are officers because they care about the club. Be sure to spread out th
 
 We are an entity under Student Activities and Involvement (SAI). That means we aren't controlled by any other organization (ACM or MOSSN), though that doesn't mean we don't want to work with them. We can also request funding through SAI, though it can be a frustrating process. 
 
-We are also a Special Interest Group (SIG) of ACM. This is for two reasons: 1. It makes it easy for us to work with other clubs on events to advertize ourselves and spread open source information, 2. They provide a funding source. We do have to do certain things (go to ACM + SIG meetings, advertise their events, etc) as defined by ACM (and on their ACM + SIG Facebook page). Be sure to call them out if they seem to be over stepping their bounds or doing something you're not comfortable with. Most the time I've done it, other clubs have felt the same way, but haven't brought it up. 
+We are also a Special Interest Group (SIG) of ACM. This is for two reasons: 1. It makes it easy for us to work with other clubs on events to advertise ourselves and spread open source information, 2. They provide a funding source. We do have to do certain things (go to ACM + SIG meetings, advertise their events, etc) as defined by ACM (and on their ACM + SIG Facebook page). Be sure to call them out if they seem to be over stepping their bounds or doing something you're not comfortable with. Most the time I've done it, other clubs have felt the same way, but haven't brought it up. 
 
 The Mozilla Open Source Student Network (MOSSN) is a bit of a new program. We are one of the founding clubs and it's still getting it's footing. It's goal is to help students learn about, and start working on open source projects. As of writing this they are trying to provide resources on activities, mentors that we can connect with, and connection with other MOSSN clubs to do joint projects.
 
@@ -107,19 +107,19 @@ Also be sure to get the login details for all of these accounts
 			- This is because we share certain topic presentations on our GitHub and we don't want to modify that content after the fact
 			- If you are deliberately updating a topic presentation, make a copy and just update the link, don't modify history
 	- Sign-ins
-		- We've been using a Google Sheet for each year (same tinyurl link for the calender year)
+		- We've been using a Google Sheet for each year (same tinyurl link for the calendar year)
 		- Label what each sign-in was for so we know when reviewing meetings
-- Google Calender
-	- Be sure to use the "Open Source Club" calender, not the "UF OSC" one
+- Google Calendar
+	- Be sure to use the "Open Source Club" calendar, not the "UF OSC" one
 	- Populate this at the beginning of the semester and fill in details as you go
 		- This helps us plan and let's others know what's happening to try to avoid conflicts
-	- Also copy our events over to the "ACM Master Calender" so others know when we are meeting
-	- You can also reserve the Fishbowl with the "Fishbowl Reservation Calender"
+	- Also copy our events over to the "ACM Master Calendar" so others know when we are meeting
+	- You can also reserve the Fishbowl with the "Fishbowl Reservation Calendar"
 - [Facebook](https://www.facebook.com/groups/ufosc/)
 	- Post 
 		- Have events created at least a week ahead of time (GBMs even more)
 		- Share GBMs at least a few times before they happen
-			- In th UF OSC page
+			- In the UF OSC page
 			- UF ACM
 			- UF Computer Science
 			- Other relevant ones
@@ -214,10 +214,17 @@ Also be sure to get the login details for all of these accounts
 	- We schedule through them because they are much more responsive and provide better rooms than UF Stars
 	- Do it as far out as you can to keep a consistent room
 	- Keep in mind food has to be ordered from their food service to be allowed
+	- Call the Building manager at (352) 260-3545 to open up the room
 - [DIBS](http://cms.uflib.ufl.edu/studyroom)
 	- Great for Causal Coding as Marston rooms are smaller and close to classes
 	- Have people on top of reserving rooms as they can go quickly
 	- It's too bad we can't have a bot that reserves these automatically
+- [Club Jitsi Meet](https://meet.jit.si/ufosc)
+	- An open source alternative to Google Hangouts
+	- Does occasionally have issues, so use Hangouts as a back up for meetings
+- [Club GitHub Profile](https://github.com/ufosc-offical)
+	- It's been used for examples before
+	- Could be made the owner of the UFOSC organization
 - Google+
 	- These are both dead, as no one uses them, but here they are
 	- [Profile](https://plus.google.com/u/0/105319997428264602058)
@@ -228,6 +235,10 @@ Also be sure to get the login details for all of these accounts
 Our official name is the Open Source Club, with OSC being the official abbreviation.
 
 We can not officially have UF or Gator in the club name. Our name is generic enough that I believe it is justifiable to use UFOSC as an abbreviation on web facing sites, as to not be confused with other open source clubs.
+
+Keep a history of the club and it's progress in the [club-history](../Club-History.md) file and put out a yearly State of the Club (like [this](../../Semesters/2017-Spring/State-of-the-Club.md)). Both of these help to measure club improvement, mark problems encountered, and possible solutions. This is a good spot to learn from and see what solutions have been tried in the past. It also gives credit to past members' work. The State of the Club is also good to send the adviser.
+
+Speaking of adviser, Dr. Hill takes a hands off approach. He has a lot of experience with integrating hardware and software, which could be useful in the future. We have also talked about starting an open source class to give people time to work on projects and learn about open source. He said he would learn more about the process as he was trying do do it with other professors and get back to us.
 
 ## Final Thoughts
 
