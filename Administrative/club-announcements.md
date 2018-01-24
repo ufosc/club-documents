@@ -18,13 +18,13 @@ Be sure to consult President and Project Leads about project and event updates
 		- Project status
 		- Events
 - One week before GBM/Code Jam
-	- Share in the UF OSC and UF ACM group
+	- Share in the UF OSC group, UF ACM group, and UF ACM page
 	- Be sure to include a message
 - Two days before GBM/Code Jam
-	- Share in the UF OSC and UF ACM group
+	- Share in the UF OSC group, UF ACM group, and UF ACM page
 	- Be sure to include a message
 - Day of all meetings
-	- By 10am share in the UF OSC and if GBM/Code Jam, the UF ACM group
+	- By 10am share in the UF OSC group, if GBM/Code Jam, UF ACM group and UF ACM page
 	- Be sure to include a message
 	- For Casual Coding, give information about that meeting
       - Project goals, if we're doing something with MOSSN, etc
