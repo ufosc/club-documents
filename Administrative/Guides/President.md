@@ -50,7 +50,9 @@ Casual Coding Sessions are meant to give members time to work on projects, help 
 
 Be sure to keep officer meetings brief and informative. The goal is to make sure everyone is up-to-date and make important decision. Keep in the mind officers already spend a lot of time on the club and have other commitments too.
 
-One meeting type we haven't explored much is a mini-hackathon where we would go over a certain topic and work on projects dealing with that topic. This could help bring in people and get members to do stuff, but would be a long time commitment and require some subject matter expertise. 
+Some suggestions for presentations:  
+1. Act as a guide. Give an overview of the topic, explain a sub-topic, give a demonstration, help the audience practice it, repeat and adapt as necessary, and end with a summary
+2. The presentation is the person talking, the actual slide show is just there to reinforce key concepts. Keep slide shows minimal and consistent to help convey the important message
 
 Oh and don't forget to put up the sign in link and actually sign in. 
 
@@ -85,6 +87,8 @@ We are also a Special Interest Group (SIG) of ACM. This is for two reasons: 1. I
 The Mozilla Open Source Student Network (MOSSN) is a bit of a new program. We are one of the founding clubs and it's still getting it's footing. It's goal is to help students learn about, and start working on open source projects. As of writing this they are trying to provide resources on activities, mentors that we can connect with, and connection with other MOSSN clubs to do joint projects.
 
 Be sure to work with other clubs, including those outside of the SIG group. Most will want a tech presentation, but doing a joint event or project would be very cool. Though in a way we compete for student time, it's better we _work with other clubs_. We aren't targeting every CS student, so working together to to teach or do something cool should primarily be done to teach or do something cool.  
+
+GitHub has a "Campus Expert" program that requires the applicant to learn or practice useful skills like giving a presentation and managing a GitHub organization. Once the application is completed you will be able to get support from GitHub (meeting sponsorship, contacts, etc) to help the club and others on campus. Supposedly an expert can designate a successor, so hopefully the club can keep representing GitHub that way (it does feel appropriate).
 
 ### Accounts
 
@@ -232,6 +236,8 @@ Also be sure to get the login details for all of these accounts
 
 ### Other
 
+_Be sure to look through the information on the club documents repo, Google Drive, and the resources repo, so you'll know what is there._
+
 Our official name is the Open Source Club, with OSC being the official abbreviation.
 
 We can not officially have UF or Gator in the club name. Our name is generic enough that I believe it is justifiable to use "UFOSC" or "UF Open Source Club" as an abbreviation or domain on web facing sites, as to not be confused with other open source clubs.
@@ -239,6 +245,8 @@ We can not officially have UF or Gator in the club name. Our name is generic eno
 Keep a history of the club and it's progress in the [club-history](../Club-History.md) file and put out a yearly State of the Club (like [this](../../Semesters/2017-Spring/State-of-the-Club.md)). Both of these help to measure club improvement, mark problems encountered, and possible solutions. This is a good spot to learn from and see what solutions have been tried in the past. It also gives credit to past members' work. The State of the Club is also good to send the adviser.
 
 Speaking of adviser, Dr. Hill takes a hands off approach. He has a lot of experience with integrating hardware and software, which could be useful in the future. We have also talked about starting an open source class to give people time to work on projects and learn about open source. He said he would learn more about the process as he was trying do do it with other professors and get back to us.
+
+Talking with and helping people can have a powerful affect. Represent the club well, and you'll be surprised who will want to join.
 
 ## Final Thoughts
 
