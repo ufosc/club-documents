@@ -6,7 +6,7 @@ After noticing a lack of general project focused clubs on campus, Matthew Booe (
 
 During the first year of operation, there were about five active members. The focus was primarily on teaching Git/Web Design and working on the club website and other basic projects. 
 
-In the middle of **Fall 2016**, the UFOSC became a Special Interest Group of the UF ACM chapter. The goal of this was to improve relations with the computer science community and find a source of funding.
+In the middle of **Fall 2016**, the OSC became a Special Interest Group of the UF ACM chapter. The goal of this was to improve relations with the computer science community and find a source of funding.
 
 ## Growing Up
 

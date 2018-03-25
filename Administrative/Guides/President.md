@@ -119,7 +119,7 @@ Also be sure to get the login details for all of these accounts
 	- Post 
 		- Have events created at least a week ahead of time (GBMs even more)
 		- Share GBMs at least a few times before they happen
-			- In the UF OSC page
+			- In the OSC page
 			- UF ACM
 			- UF Computer Science
 			- Other relevant ones
@@ -224,7 +224,7 @@ Also be sure to get the login details for all of these accounts
 	- Does occasionally have issues, so use Hangouts as a back up for meetings
 - [Club GitHub Profile](https://github.com/ufosc-offical)
 	- It's been used for examples before
-	- Could be made the owner of the UFOSC organization
+	- Could be made the owner of the OSC organization
 - Google+
 	- These are both dead, as no one uses them, but here they are
 	- [Profile](https://plus.google.com/u/0/105319997428264602058)
@@ -234,7 +234,7 @@ Also be sure to get the login details for all of these accounts
 
 Our official name is the Open Source Club, with OSC being the official abbreviation.
 
-We can not officially have UF or Gator in the club name. Our name is generic enough that I believe it is justifiable to use UFOSC as an abbreviation on web facing sites, as to not be confused with other open source clubs.
+We can not officially have UF or Gator in the club name. Our name is generic enough that I believe it is justifiable to use "UFOSC" or "UF Open Source Club" as an abbreviation or domain on web facing sites, as to not be confused with other open source clubs.
 
 Keep a history of the club and it's progress in the [club-history](../Club-History.md) file and put out a yearly State of the Club (like [this](../../Semesters/2017-Spring/State-of-the-Club.md)). Both of these help to measure club improvement, mark problems encountered, and possible solutions. This is a good spot to learn from and see what solutions have been tried in the past. It also gives credit to past members' work. The State of the Club is also good to send the adviser.
 
