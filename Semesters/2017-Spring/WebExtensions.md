@@ -1,5 +1,9 @@
 # WebExtensions
 
+## Presentation
+
+[Slides here](https://github.com/ufosc/resources/blob/master/presentations/intro-to-webextensions.md)
+
 ## Browser Extensions:
   - Add features (easier)
   - Customize and protect your experience
