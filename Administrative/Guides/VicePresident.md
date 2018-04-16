@@ -58,4 +58,4 @@ I have already mentioned the importance of promoting the club outside the typica
 
 ## Summary
 
-The best piece of advice I can offer is this: **be a good member**. Be engaged, do things in the club, make friends with the other members, and care. D
+The best piece of advice I can offer is this: **be a good member**. Be engaged, do things in the club, make friends with the other members, and care.
