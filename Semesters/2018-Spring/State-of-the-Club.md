@@ -16,6 +16,8 @@ The two main projects this semester have been updating the website and the Marst
 
 Each project is web based, so the was an overlap in some technology used. In the future it would be nice to diversify so people have other types of technologies they can learn. We also found that a lot of DAS majors were interested in the game, so it might pay to more heavily advertise in those classes.
 
+One aspect that we have failed at is working on existing open source projects. It can be really intimidating and difficult to get started in an existing code base. Doing events dedicated to this (maybe with other MOSSN clubs) might help people get more comfortable contributing to other projects. 
+
 ## Members
 
 We've had an incremental increase in active members this semester, and kept attendance up throughout the year, even during exam periods. This is good progress, and trying to bring in more members from non-CS majors might help increase the member base.
