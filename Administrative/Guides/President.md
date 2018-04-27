@@ -101,6 +101,7 @@ Also be sure to get the login details for all of these accounts
 - Club email
 	- gator.osc@gmail.com
 	- Check on this regularly as people will ask questions this way, especially from Gator Connect
+	- I would recommend adding it to your phone for notifications, especially to quickly respond to students
 - Google Drive
 	- Try to keep most files on the GitHub instead of the Drive
 		- GitHub is better for things like club procedures, meeting notes, and resources so people can see them 
@@ -210,6 +211,12 @@ Also be sure to get the login details for all of these accounts
 	- We have to update this at the beginning of each fall to stay an official Student Government club
 	- New students may find us this way
 	- The site is pretty awful so we don't use it for anything else
+- [Namecheap](https://www.namecheap.com/)
+	- We have an account with them for our domain name (ufopensource.club)
+	- It does need to be repurchased each year in April
+- [Digital Ocean](https://www.digitalocean.com/)
+	- This is the VPS provider we have for the club server
+	- We can add money in ahead of time and let it auto withdraw
 - [Mozilla Open Source Student Network](https://opensource.mozilla.community/)
 	- More on this in the other organization section
 	- We have a profile here that should be updated
