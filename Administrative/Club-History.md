@@ -20,4 +20,12 @@ The end of Spring elections resulted in news officers Joe Komskis (External Rela
 
 Over the **Summer of 2017** Matthew and Josh worked with Mozilla and eighteen other students to help put together the Mozilla Open Source Student Network. 
 
+## Staying Strong
+
+Through **Fall of 2018** the Open Source Club has kept a simmilar format, while experimenting with a new type of meetings called Code Jams. The goal was to provide a longer workshop where students could come to learn about a topic before jumping into projects that deal with that.
+
+Total club membership was around fifteen active members, with another ten or so coming around occasionally.
+
+New projects included Marston vs West, Gator Questions, a revamped club website and backend, and Discord bots.
+
 _To be continued..._
