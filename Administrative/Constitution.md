@@ -76,7 +76,7 @@ Vice President.
 ### Section B: 
 
 The appointed officers of the Open Source Club shall be *Secretary*, *External Relations Chair*,
-*Social Chair*, and *Project Leader*.
+*Social Chair*, *Project Leader*, and *Server Adminstrator*.
 
 1. The Secretary shall be appointed by the President.
 
@@ -97,6 +97,10 @@ such as through the distribution of flyers.
 
 8. The Project Leader shall hold responsibility over coordinating members' work on
 projects, organizing supplementary meetings, and resolving disputes.
+
+9. The Server Administrator shall be appointed by the President.
+
+10. The Server Administrator shall hold responsibility for the club's servers. This shall include but be not limited to managing user accounts, access to projects, facilitating Project Leaders in deploying their projects, and coordinating with the Treasurer for server funding. The Server Administrator shall share all root passwords with the President and in the event of a password change shall inform the President immediately. The Server Administrator shall also report all security incidents to the Officers and change the root password after assuming their role.
 
 ### Section C: 
 
