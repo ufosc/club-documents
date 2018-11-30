@@ -1,0 +1,23 @@
+# Summer GBM #1
+---
+- Announcements:
+  - Mozilla Student Network: Summer Initiative
+    - Link on presentation
+  - Casual Coding's:
+    - Pole for time on presentation
+    - Thursday, Marston Darwin 5pm - 7pm
+- Open Source Vs. Free Software:
+  - Open source has code available to read
+  - Free software is a business practice
+- What we do as a Club:
+  - learn about open source projects
+  - Support open source projects
+  - create open source projects
+- Projects:
+  - Previous:
+    - Video Game
+    - Club Website
+  - New Potential projects:
+    - New bioinformatics projects
+    - Potential new game
+    - Machine learning chess

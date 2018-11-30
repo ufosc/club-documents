@@ -42,5 +42,3 @@ This is to help keep the vision of the Open Source Club clear and help to help p
 	- Advertise in programming classes
 - People who are new or inexperienced with programming and want to learn
 	- Advertise in intro programming classes
-
-

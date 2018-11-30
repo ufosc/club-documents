@@ -56,6 +56,7 @@ This document list the responsibilities and other characteristics of each office
 
 - Maintain friendly relations with ACM and other SIGs
 - Attend ACM SIG meetings
+- Work with the Student Advisory Council
 - Act as main point of contact for other organizations 
 - Coordinate on joint projects and presentations
 - Reaching out to other computer science related clubs

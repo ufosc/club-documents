@@ -114,7 +114,7 @@ submitted to either the President, Vice President, or Treasurer. Written notific
 sent to the officer in question asking that officer to be present at the next officer meeting and
 prepared to respond to the removal request.
 
-2. A two thirds majority vote of members present is necessary to remove the officer.
+2. A two thirds majority vote of officers is necessary to remove the officer.
 
 3. In the event of the removal of an officer, a special provision may be granted to the
 remaining officers to appoint an interim replacement until an election may be held.

@@ -1,0 +1,51 @@
+# Summer 2018 meeting plan #1
+---
+#### General
+- ~~Code Jams during summer~~
+- Recruiting:
+  - Summer A: **do heavy recruitment** (no new comers)
+  - Summer B: slow down recruitment
+- Locker:
+  - Store hardware
+  - Submit documentation/permissions
+- Finance:
+  - Mozilla (MOSSN)
+  - Github (Github advisors get funding)
+  - ACM
+  - Student Gov
+- Casual Coding:
+  - gauge attendance
+  - 1 per week
+  - If more demand, increase to 2 per week
+- Projects:
+  - MUD: Entry level
+  - Marston vs. West: Finishing in the summer
+  - Generic Game Project: DAS interest, also easy entry
+- GBM's
+  - Interest meeting 2 weeks in
+  - Topics:
+    - Possible Joint meeting with another club in Summer
+    - Intro to Open Source (+ idea)
+    - Docker
+    - React/Vue/Electron (They're open source, but any alt. works too)
+    - Hardware
+    - Open CV?
+    - Open Source Graphics (Blender, SDL)
+    - 3d printing?
+- Discord vs. Slack
+  - Try to incorporate
+  - Make a decision by end of Summer
+- Recruitment:
+  - Flyering
+  - ~~No Tabling~~
+  - Going to classes
+    - Summer:
+      - Data Structures
+      - Discrete
+      - Programming I & II
+    - Fall:
+      - Above listed
+      - Programming in C (**Wait until the fall**)
+      - Digital Logic (**Wait until the fall**)
+      - Other EE Classes
+      - DAS Classes

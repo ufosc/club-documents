@@ -6,13 +6,13 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 
 ### Casual Coding
 
-- Undirected
+- Un-directed
 - Can be led by any officer
 - Start off writing the sign-in url on the board, remind everybody to sign in
 - Choose appropriate music
 - See what people are working on, see if they need help, spark some conversation
-- Casual codings are to take place around class-times (2-3 hours long)
-- At least twice weakly
+- Casual Codings are to take place around class-times (2-3 hours long)
+- At least twice weekly
 
 ### Development Sessions
 
@@ -38,9 +38,8 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 	- What they’ve been working on
 	- What they’re going to work on (if they know)
 	- Ask if they need anyone else for anything (assistance etc)
-- Give presentation on an open source project (20-30 minutes)
-- Break off into groups for each project (led by project leads) (20 minutes)
-	- Develop
+- Give workshop on an open source topic (30-50 minutes)
+	- Keep the presentations engaging, add activities throughout meeting
 
 ### Officer Meetings
 
@@ -61,6 +60,30 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 
 ### Social Chair
 
+#### Meetings
+
+- General Body Meetings
+	- Before semester starts decide dates with other officers
+		- Keep in mind carrier fairs, breaks, exams, etc
+		- Populate Open Source Club Google Calendar with events
+		- Duplicate event onto ACM Master Calendar
+	- Reserve meeting rooms through [Reitz Union](https://virtualems.union.ufl.edu/) for the entire semester
+		- Be sure to indicate appropriate arrangement and projector
+	- Update calendars as applicable
+- Casual Coding Sessions
+	- Survey members at the begging of the semester to decide times
+		- Fill out calendars for the whole semester
+	- Any Marston room must be scheduled 6 days beforehand
+		- If assistance with DiBS is needed, ask in the officer chat
+		- Update calendars
+	- Fishbowl schedule on the Fishbowl Reservation Calendar
+		- To be done first week of the semester
+- Other Rooms
+	- Marston has a visualization wall for meetings, reserve-able through [here](http://guides.uflib.ufl.edu/collaboration/L136)
+	- Marston [MADE@UF lab](https://made.it.ufl.edu/) with computers and other gear for VR and app development. Ask a librarian to who to email.
+
+#### Announcements
+
 - Engagement on the Facebook page
 	- Maintain a list of cool projects we would like to talk about (on the GitHub)
 	- Choose one that hasn't been talked about in a while and feature it on the FB page
@@ -68,7 +91,9 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 		- Ask people’s opinion (if they use it, want to use it etc)
 	- Once or twice a week
 - Announcements
-	- Facebook events created a week ahead of time
+	- Facebook events created one week ahead of time
+		- Use meeting appropriate image (found on logos repo)
+		- Use description and time from our calendars
 	- Emails go out Sunday
 	- Talk about upcoming events and meetings
 		- Casual Coding (Location, time)
@@ -76,12 +101,6 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 		- GBMs, share on other Facebook pages
 			- UFACM, UF Computer science, Gator engineering
 			- To go out one week ahead of time
-- Meeting-scheduling
-	- Any Marston room must be scheduled 6 days beforehand
-		- If assistance with DiBS is needed, contact Secretary, External, then President
-	- Fishbowl schedule on the Fishbowl Reservation Calendar
-		- To be done first week of the semester
-	- Update both the UFOSC calendar, as well as the UFACM calendar with our meetings after scheduling
 
 ### Treasurer
 
@@ -99,10 +118,12 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 	- During meetings, excluding Casual Coding
 	- Keep record of type of meeting, date, time, location
 	- Record content discussed for future reference
-		- Who says what (especially for officer meetings)
-		- What people’s assignments are
-	- Include in respective google drive folder
+		- For GBM's keep it brief enough to catch people up
+		- Keep it detailed for officer meetings
 	- Link to presentations given in meeting logs
+	- Save officer meetings in respective google drive folder
+	- Save GBM notes in respective club-documents repo
+		- Share GBM notes one day after on Facebook
 - Maintain club documents
 	- Certain documents to be on the GitHub
 		- Constitution
@@ -133,7 +154,7 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 	- During meeting, talk briefly about what’s in the slides
 - Formalize coding guidelines, project design on GitHub
 	- Start with base project example inside the resources repo
-	- Keep readme and design doc up to date
+	- Keep README and design doc up to date
 	- Have active issues to assign to members
 - Maintain list of active members on the project
 	- On Google Drive
@@ -146,3 +167,12 @@ Here is a list of procedures for meetings and officer responsibilities. This is 
 - Updating all administrative documents
 	- Put on amendments branch before vote 
 	- Allow anyone to see changes to voice any concerns 
+- To designate something an active club project
+	- Need three members working on it for two weeks
+	- A project lead
+		- Either voted on by project members or selected by officers
+	- Code to be open source on the club GitHub
+- An active members is defined as
+	- On average comes to a meeting every other week in the current semester
+		- This allots for school work, other commitments, and forgetting to sign in 
+	- Numbers are from sign-in sheet
