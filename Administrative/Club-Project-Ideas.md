@@ -14,7 +14,7 @@ Below is a template for projects
 
 **Resources**: Useful resources or examples
 
-**Github**: https://github.com/ufosc/
+**GitHub**: https://github.com/ufosc/
 
 **Status**: Not started, inactive, active, finished 
 
@@ -30,7 +30,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/ufosc.github.io 
+**GitHub**: https://github.com/ufosc/ufosc.github.io 
 
 **Status**: Started
 
@@ -44,7 +44,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/nfc-tag-android, https://github.com/ufosc/nfc-tag-server
+**GitHub**: https://github.com/ufosc/nfc-tag-android, https://github.com/ufosc/nfc-tag-server
 
 **Status**: Started
 
@@ -58,7 +58,7 @@ Below is a template for projects
 
 **Resources**: https://github.com/photonstorm/phaser
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Started
 
@@ -74,7 +74,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/amuse
+**GitHub**: https://github.com/ufosc/amuse
 
 **Status**: Inactive
 
@@ -88,7 +88,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/course-scheduler
+**GitHub**: https://github.com/ufosc/course-scheduler
 
 **Status**: Inactive
 
@@ -102,7 +102,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/jukebox
+**GitHub**: https://github.com/ufosc/jukebox
 
 **Status**: Inactive
 
@@ -116,7 +116,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/pylay
+**GitHub**: https://github.com/ufosc/pylay
 
 **Status**: Inactive
 
@@ -130,7 +130,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/website-templates
+**GitHub**: https://github.com/ufosc/website-templates
 
 **Status**: Inactive
 
@@ -146,7 +146,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not stated
 
@@ -160,7 +160,7 @@ Below is a template for projects
 
 **Resources**: Useful resources or examples 
 
-**Github**:
+**GitHub**:
 
 **Status**: Not stated
 
@@ -174,7 +174,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/GatorLinks/GatorLinks.github.io
+**GitHub**: https://github.com/GatorLinks/GatorLinks.github.io
 
 **Status**: Not started
 
@@ -188,7 +188,7 @@ Below is a template for projects
 
 **Resources**: https://github.com/MycroftAI/enclosure-picroft?mc_cid=95e1100d28&mc_eid=b3c9cbddb3
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not stated
 
@@ -204,7 +204,7 @@ Below is a template for projects
 
 **Resources**: https://trello.com/
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not stated
 
@@ -218,7 +218,7 @@ Below is a template for projects
 
 **Resources**:
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not stated
 
@@ -232,7 +232,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started
 
@@ -246,7 +246,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: https://github.com/ufosc/gif-editor
+**GitHub**: https://github.com/ufosc/gif-editor
 
 **Status**: Not started
 
@@ -260,7 +260,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**:
+**GitHub**:
 
 **Status**: Not started
 
@@ -274,7 +274,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started
 
@@ -288,7 +288,7 @@ Below is a template for projects
 
 **Resources**: 
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started
 
@@ -302,7 +302,7 @@ Below is a template for projects
 
 **Resources**: https://microg.org/  https://developer.android.com/ndk/index.html
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started 
 
@@ -316,7 +316,7 @@ Below is a template for projects
 
 **Resources**: http://www.osvr.org/hdk2.html
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started
 
@@ -330,7 +330,7 @@ Below is a template for projects
 
 **Resources**: Paper for starting point - http://www.cs.colorado.edu/~jbg/docs/2014_acl_rnn_ideology.pdf 
 
-**Github**: 
+**GitHub**: 
 
 **Status**: Not started
 
@@ -344,7 +344,7 @@ Below is a template for projects
 
 **Resources**: Useful resources or examples 
 
-**Github**:
+**GitHub**:
 
 **Status**: Not started
 
@@ -358,7 +358,7 @@ Below is a template for projects
 
 **Resources**: UF OVS 
 
-**Github**:
+**GitHub**:
 
 **Status**: Minimally started, Looking to hire Co-Founder, Will begin seeking funds very soon. 
 
