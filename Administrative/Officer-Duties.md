@@ -92,3 +92,17 @@ This document list the responsibilities and other characteristics of each office
 - Draft style-guidelines and other documents for the project
 - Maintains a list of team members for the project
 - Semester or project term (whichever is less)
+
+### USAB Representative
+
+- Attend USAB Meetings
+- Assist in recruiting representatives from other clubs
+- Keep our club up to date with information from the USAB Meetings
+- Request input from club members on topics for the USAB
+
+### Server Admin
+
+- Manage user accounts
+- Help project leads deploy their projects
+- Coordinate with the treasurer for funding
+- Keep the server up to date.
