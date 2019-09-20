@@ -5,7 +5,9 @@ This is to help keep the vision of the Open Source Club clear and help to help p
 ## Goals
 
 - Promote
-	- Talk about and give presentations on open source software  
+	- Talk about and give presentations on open source software
+	- Utilize open source technologies whenever possible for club resources
+		- If it is not yet possible to, we will move towards utilizing such software  
 - Support
 	- Help other open source projects with coding, bug catching, sharing, and monetarily.
 	- Assist other UF organizations with their projects
@@ -22,7 +24,7 @@ This is to help keep the vision of the Open Source Club clear and help to help p
 		- Bug testing
 		- Idea bouncing
 		- HTML/Web design
-		- Simple Python projects
+		- Smaller projects
 - Practicality
 	- Work completed has actual applications
 	- Not simply busywork or pointless
